@@ -1,0 +1,6 @@
+D001	Arroz	6	sacos	150.0
+D002	Azucar	8	sacos	130.0
+D011	Quaker	65	paquetes	2.5
+D003	Leche	90	tarros	3.2
+D004	Aceite	50	envases	12.5
+D005	Gaseosa	785	botellas	3.5

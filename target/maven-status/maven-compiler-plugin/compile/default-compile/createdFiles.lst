@@ -1,0 +1,8 @@
+pe\edu\upeu\utils\LeerFichero.class
+pe\edu\upeu\utils\LeerTeclado.class
+pe\edu\upeu\modelo\Abarrotes.class
+pe\edu\upeu\utils\UtilsX.class
+pe\edu\upeu\dao\ArchivoCrud.class
+pe\edu\upeu\grupo5\DelSur.class
+pe\edu\upeu\modelo\Inventario.class
+pe\edu\upeu\dao\CrudDao.class

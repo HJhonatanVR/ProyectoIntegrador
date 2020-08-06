@@ -1,0 +1,10 @@
+v1	D001	Arroz	7	150.0	1050.0
+v2	D001	Arroz	7	150.0	1050.0
+v3	D001	Arroz	2	150.0	300.0
+v4	D001	Arroz	2	150.0	300.0
+v5	D007	Sal	3	1.5	4.5
+v6	D011	Quaker	10	2.5	25.0
+v7	D011	Quaker	5	2.5	12.5
+v8	D011	Quaker	5	2.5	12.5
+v9	D011	Quaker	5	2.5	12.5
+v10	D011	Quaker	5	2.5	12.5
